@@ -1,0 +1,9 @@
+Your bot needs an identity:
+Sign in to Microsoft's Application Registration Portal
+Click Add an app 
+If you see two app groupings, click the button in the Converged Applications section.
+Choose a name for your bot (e.g. IVR Skype Bot) and click Create.
+Copy the Application Id into the form on this page.
+Click Generate New Password under Application Secrets.
+Copy the Generated Password into the form on this page.
+Complete the registration by clicking Save at the bottom of the page.
