@@ -1,4 +1,4 @@
-# Are you looking for an automated interactive solution that would handle large call volumes and maintain zero wait time for your customers?
+# Are you looking for an automated solution that would handle large call volumes and maintain zero wait-time for your customers?
 This LUIS enabled solution creates an intelligent Interactive Voice Response (IVR) application for automated customer interaction.
 
 
