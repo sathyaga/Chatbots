@@ -1,6 +1,6 @@
 # Are you looking for an automated solution that would handle large call volumes and maintain zero wait-time for your customers?
 
-This LUIS enabled solution could help create an intelligent Interactive Voice Response (IVR) application for automated customer interaction. I used Visual Studio, BOT Framework, Node.JS, JASON and Cortana Cognitive API to build this solution for a demo purpose.
+This LUIS enabled solution could help create an intelligent Interactive Voice Response (IVR) application for automated customer interaction. I used Visual Studio, BOT Framework, Node.JS, JASON, CosmosDB, Azure SQL Database and Cortana Cognitive API to build this solution for a demo purpose.
 
 
 # Underlying Architecture
